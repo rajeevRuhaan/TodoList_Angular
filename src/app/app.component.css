@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-text {
+  display: inline;
+  margin: 0;
+  border: none;
+  border-radius: 0.4rem;
+  padding: 10px;
+}
+.list ul li button {
+  position: absolute;
+  right: 0%;
+  background: red;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: none;
+}
+
+.add-btn {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: peru;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: none;
+}
+.app-title {
+  text-align: center;
+  color: pink;
+  font-size: 70px;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+.list ul li {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: black;
+  background-color: blanchedalmond;
+  line-height: 30px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: cadetblue;
+  padding: 10px;
+  position: relative;
+}
+.container {
+  color: whitesmoke;
+  max-width: 500px;
+  margin: auto;
+}
